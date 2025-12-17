@@ -9,7 +9,7 @@ The longer you take, the more time the aliens have to call for back up to corner
 Watch our game [trailer](https://youtu.be/Z4KPS4OzXRQ)!
 
 <p align="center">
-  <img src="https://media.github.sfu.ca/user/4699/files/163ac480-8826-427c-a940-1c746d7ee67a" alt="Maïs Raiders Preview" width="999"/>
+  <img src= "https://raw.githubusercontent.com/erintdemarco/Mais-Raiders/master/Project/src/main/resources/mias%20riaders%20img.png" alt="Maïs Raiders Preview" width="999"/>
 </p>
 
 
